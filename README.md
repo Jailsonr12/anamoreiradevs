@@ -1,61 +1,52 @@
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif" width="150"/>
+</div>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<br>
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=FFCA28" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="Html logo" title="Html" height="25" /></span>
-&nbsp;&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=000" alt="GiHub logo" title="Github" height="25" /></span>
-&nbsp;&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=7952B3" alt="Charp logo" title="Charp" height="25" /></span>
-&nbsp;&nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/SQLServer-282C34?logo=microsoftsqlserver&logoColor=ff0000" alt="SQLserver logo" title="SQLServer.js" height="25" /></span>
-&nbsp;
-&nbsp;&nbsp;&nbsp;<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /><br></span>
-&nbsp;
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamoreiradevs&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=000a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=anamoreiradevs&show_icons=true&theme=chartreuse-dark&border_color=61dafb&hide_border=true" />
+<div id="header" align="center">
+  <a href="https://www.linkedin.com/in/ana-lydia-moreira-6a79571a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<br></br>
-<h2 align="center"></h2>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div align="center">
+<div id="badges" align="center">
+ <img src="https://komarev.com/ghpvc/?username=analydiamoreira&style=flat-square&color=yellow" alt=""/>
+</div>
 
+<h1>
+</h1>
+
+
+---
+
+### :woman_technologist: About Me :
+
+I am a programming student <img src="https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif" width="30"> from Brazil.
+
+- :telescope: I have been studying programming since 2021.
+
+- :seedling: Exploring new ways.
+
+- :zap: In my free time, i study English by myself.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-lydia-moreira-6a79571a6/)  
+
+###  :fire: My Stats :
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anamoreiradevs&theme=tokyonight_duo)](https://git.io/streak-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamoreiradevs&layout=compact&theme=tokyonight_duo)](https://github.com/anamoreiradevs/github-readme-stats)
+
+
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" widht="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
+                    
   
-</div>
-<br>
-<br>
-<br>
-<h2>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quote-gif.svg" width="1200" alt="trungquandev-official" />
-</a>
-</h2>
-<br>
-<a href="#" target="_blank">
- <img src="svg/trungquandev-quotes.svg" width="1200" alt="trungquandev-official" />
-</a>
+  - ![Snake animation](https://github.com/anamoreiradevs/anamoreiradevs/blob/output/github-contribution-grid-snake.svg)
 
-
+---
 

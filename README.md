@@ -46,7 +46,7 @@ I am a programming student <img src="https://media.giphy.com/media/SYHz66JfYHbBt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
                     
   
-  - ![Snake animation](https://github.com/anamoreiradevs/anamoreiradevs/blob/output/github-contribution-grid-snake.svg)
+  
 
 ---
 
